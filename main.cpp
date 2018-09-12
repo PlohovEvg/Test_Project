@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("privet");
+	printf("privet"); //zdarova
 	return 0;
 }
